@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+با سلام 
+رزومه 
+امیر هوشنگ جعفری 
+متاهل – دو فرزند
+1-دیپلم اقتصاد و اجتماعی
+2-آشنا با دستگاههای تراشکاری 
+3- دریافت مدرک پایه 2 برق صنعتی از وزارت کار و امور اجتماعی
+4-اجرای سیم کشی برق ساختمان
+5-فوق دیپلم الکترونیک هواپیمایی
+6-لیسانس الکترونیک هواپیمایی
+7-دریافت گواهینامه آموزشی تجهیزات بیسیم از کشور ژاپن 
+8- دریافت گواهینامه آموزشی تجهیزات بیسیم از کشور انگلستان
+9- دریافت گواهینامه آموزشی تجهیزات بیسیم از کشور ایتالیا
+10- دریافت گواهینامه آموزشی تجهیزات بیسیم از کشور نیوزیلند
+11- دریافت گواهینامه آموزشی تجهیزات بیسیم از صنایع الکترونیک وزارت دفاع
+12- 300 ساعت تدریس در دانشکده صنعت هوانوردی
+13- گذراندن بیش از 2000 ساعت آموزش مرتبط با تجهیزات هوانوردی و داگیومنتهای ایکائو
+14- مدیر اداره الکترونیک فرودگاه عسلویه به مدت 3 سال
+15-مسول تهیه و نگهداری تجهیزات اداره کل
 
-You can use the [editor on GitHub](https://github.com/ahjafari/ahjafari.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahjafari/ahjafari.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
