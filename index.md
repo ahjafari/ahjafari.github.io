@@ -1,4 +1,4 @@
-<img src="C:\Users\amir\Desktop">
+<img src="C:\Users\amir\Desktop\amir.jfif">
 +       امیر هوشنگ جعفری
 +      رزومه شخصی      
 +مهارتهای آکادمیک      
