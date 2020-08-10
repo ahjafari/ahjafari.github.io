@@ -1,4 +1,4 @@
-<img src="C:\Users\amir\Desktop\amir.jfif">
+<img src="https://github.com/account">
 +       امیر هوشنگ جعفری
 +      رزومه شخصی      
 +مهارتهای آکادمیک      
