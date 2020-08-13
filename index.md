@@ -1,5 +1,5 @@
 
-<div dir="rtl">
+
 <!DOCTYPE html>
 <html>
 <body>
