@@ -5,8 +5,6 @@
 </body>
 </html>
 
-<div dir="rtl">
-  
 ### resume 
 ---
 CONSOL.LOG('Hello word!');
@@ -51,5 +49,3 @@ CONSOL.LOG('Hello word!');
 ---
 
 + یادگیری مهارتهای جدید و ساخت و رفع عیب از تجهیزات الکتریکی- الکترونیکی- مکانیکی 
-
-</div>
