@@ -4,7 +4,36 @@
 </body>
 </html>
 
+---
+### امیر هوشنگ جعفری 
 
+###           رزومه شخصی 
+  متاهل  +
+
+###          مهارتهای آکادمیک  
++دیپلم ااقتصاد و اجتماعی
++گواهینامه پایه 2 برق صنعتی
+•	از وزارت کار و امور اجتماعی
++ فوق دیپلم الکترونیک هواپیمایی
+•	از دانشکده صنعت هوانوردی
++ لیسانس الکترونیک هواپیمایی
+•	از دانشکده صنعت هوانوردی
+### مهارت های تجربی بر اساس ثوابق کاری
++دریافت گواهینامه تخصصی رادیوهای بیسیم
+*از کشور ژاپن   
++دریافت گواهینامه تخصصی رادیوهای بیسیم
+*از کشور انگلستان   
++دریافت گواهینامه تخصصی رادیوهای بیسیم
+*از کشور استرالیا   
++دریافت گواهینامه تخصصی رادیوهای بیسیم
+*از کشور ایتالیا   
++ تجربه کار با دستگاه های تراشکاری
++ بیش از 300 ساعت تدریس در دانشکده صنعت هوانوردی
++بیش از 2000 ساعت آموزش های مرتبط و دریافت گواهینامه
+###  علاقه مندیها
+
++یادگیری مهارتهای جدید و ساخت و رفع عیب از تجهیزات الکتریکی- الکترونیکی- مکانیکی 
+ 
 ---
 
 + BirthDate
@@ -52,5 +81,35 @@ Aviation electronics.
 + Masters student in Computer Software Engineering
   - Payame Noor University - Tehran
   - October 2019 to Present
+  
+  ### Licenses & Certifications
+
+--- 
+
++ I have been trained and certified to install - repair - and maintain digital and analog wireless equipment in the HF and VHF frequency bands in the following countries.
+
+  - Japan - England - Italy and Australia
+
+  ### Languages
+
+---
+
++ English 
+  - Pearson Test of English - Upper Intermediate
++ Persian
+  - Native
+  
+  ### Quera Profile Link
+
+---
+
++ https://https://quera.ir/profile/ahjafari
+
+  ### Resume Assessment
+
+---
+
+[Resume](/assessment/AR_CV_CheckList_AR_3983.pdf)
+
   
  
